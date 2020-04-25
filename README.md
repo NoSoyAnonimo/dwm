@@ -14,3 +14,5 @@ Comment=Dynamic Window Manager
 Exec=dwm
 Type=XSession
 ```
+
+Cualquier modificación que se quiera realizar sobre dwm debe de hacerse en el archivo `config.h` y no sobre `config.def.h`.
